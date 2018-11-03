@@ -125,7 +125,7 @@ The **Third** part of the code in **main.m** (lines 86 to 100)
 
 ## License
 ***
-See the [LICENSE.md](LICENSE.md) file for details
+See the [LICENSE.md](https://github.com/vasiliskatr/TScoatingsprediction/blob/master/LICENCE.md) file for details
 
 
 
