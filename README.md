@@ -30,6 +30,8 @@ The results of the developed tool have been validated experimentally using HVOF-
 The Thermal spray coatings is a multi-bilion dollar global market with steady growth projections. Thermal spray methods are suitable for producing coatings from a wide range of materials, on a wide range of substrates. Coatings that offer:
 * wear resistance
 * corrosion resistance
+* creation of free standing structures
+* rebuilding of damaged parts
 * biocompatibility
 
 The concept behind thermal spray as a process is the progressive build-up of a coating via the cumulative impingement of highly energetic particles that deform upon impact on a substrate. Such coatings support many misson-critical applications in a variety of idnustrial sectors:
