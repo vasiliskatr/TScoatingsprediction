@@ -113,11 +113,6 @@ The **Third** part of the code in **main.m** (lines 86 to 100)
 5. Plots the predictions for the examined coating properties, for all the nodes in all the sprayed passes on the geometry mesh, offering a intuitive visualization of the probelatic areas.
 
 
-## Contributing
-*** 
-* A UI would be usefull.
-* A version  of the code in Python is under construction.
-* Any feedback or comments are welcomed : )
 
 
 ## Author
